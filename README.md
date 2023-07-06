@@ -35,7 +35,7 @@ When not immersed in codes, I enjoy challenging myself with a game of Go (Baduk)
 ## Connect with me
 Feel free to reach out to me to discuss Go, AI, my projects, collaborations, or potential projects. I'm always excited about opportunities to learn and work on something new!
 
-- 📫 How to reach me: dennis.joch@gmail.com
+- 📫 How to reach me: dennisjoch77@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently learning Q# for Quantum Computing!
 
