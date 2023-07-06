@@ -1,36 +1,44 @@
-# Hello, I'm Dennis 👋
+# Hello World, I'm Dennis! 👋
 
-![GitHub Follower](https://img.shields.io/github/followers/dennisjoch?label=Follow%20Dennis&style=social)
+[![GitHub Follower](https://img.shields.io/github/followers/dennisjoch?label=Follow%20Dennis&style=social)](https://github.com/Dennisjoch)
 
-I'm a passionate developer and optimizer, deeply intrigued by a myriad of topics including SEO, data analysis, robotics, and quantum computing. I enjoy reading specialized literature on philosophy, sociology, and technology, and I regularly follow tech vlogs and blogs to keep myself updated.
+I'm a multi-faceted developer who is passionate about optimization, data analysis, robotics, quantum computing, and more. I'm currently engaged in developing an SEO Lead Conversion Predictor using Machine Learning, Python, Docker, and Linux server technologies, as well as an SEO Website project. I'm also on an unending journey to expand my knowledge and refine my skills.
 
-I've had the honor to work on a variety of projects, and I revel in constantly expanding and refining my skills and knowledge. Currently, I'm focused on two main projects - an SEO lead conversion predictor, which leverages machine learning, Python, Docker, and Linux server technologies, and an SEO Website project. I am eager to learn more about these languages and their potential.
+When not immersed in codes, I enjoy challenging myself with a game of Go (Baduk), reading specialized literature on philosophy, sociology, and technology, and staying updated with the latest tech vlogs and blogs.
 
-In my leisure time, I love playing Go (Baduk), a fascinating strategic game with millennia-old history. My love for optimization and strategy truly comes to life here, and I'd be thrilled if you asked me for a game!
+## 💻 Current Projects
+- 📈 SEO Lead Conversion Predictor (Machine Learning, Python, Docker, Linux Server)
+- 🌐 SEO Website
+- 🤖 Advancing my GPT-promting skills (Level 9000 and counting!)
 
-## Current Projects 💻
-- 🔭 SEO Lead Conversion Predictor (Machine Learning, Python, Docker, Linux Server)
-- 🌱 SEO Website
-- 📝 Enhancing my GPT-promting skills (already at level 9000!)
+## 🌱 Learning & Future
+- 🔮 Quantum Computing
+- 💬 Q# for Quantum Computing
 
-## Interests and Passions ✨
-- Go (Baduk)
-- Hacking
-- SEO and Data Analysis
-- Robotics
-- Quantum Computing
-- Reading on Philosophy, Sociology, and Technology
+## 💡 Interests & Passions
+- 🎲 Go (Baduk)
+- 🔐 Hacking
+- 📊 SEO and Data Analysis
+- 🤖 Robotics
+- 📚 Reading on Philosophy, Sociology, and Technology
 
-## How can you help me? 🤝
-- :thinking: I'm looking for assistance in C# and Quantum Computing.
+## ❓ Ask me about...
+- 🎲 Go (Game)
+- 🧠 AI & ML
+- 💼 Any projects I've worked on!
 
-## Ask me about... 💬
-- Go (Game)
-- Artificial Intelligence
-- Any projects I've worked on!
+## GitHub Stats & Streaks
+[![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennisjoch)](https://github.com/dennisjoch/github-readme-stats)
 
-## More about me 👨‍💻
+![Dennis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dennisjoch)
+
+## Connect with me
+Feel free to reach out to me to discuss Go, AI, my projects, collaborations, or potential projects. I'm always excited about opportunities to learn and work on something new!
+
+- 📫 How to reach me: dennis.joch@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently learning Q# for Quantum Computing!
 
-Follow me on GitHub to stay updated and support my work!
+Do remember to follow me on GitHub to stay updated about my work!
+
+![Visitor Count](https://profile-counter.glitch.me/dennisjoch/count.svg)
